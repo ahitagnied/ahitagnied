@@ -1,4 +1,4 @@
-# hi 👋
+hi 👋
 
 - I'm [Ahitagni](https://ahitagni.rice.edu/)
 - I am interested in computer vision and startups
