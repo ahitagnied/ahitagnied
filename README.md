@@ -8,4 +8,4 @@
 - 🌐 Website: [https://ahitagni.rice.edu/](https://ahitagni.rice.edu/)
 - 🐦 Twitter: [@ahitagnied](https://x.com/ahitagnied)
 - 🌱 LinkedIn: [Ahitagni D](https://www.linkedin.com/in/ahitagnid/)
-- 📬 Email: [ahitagnied@rice.edu](mailto:ad158@rice.edu)
+- 📬 Email: [adas@rice.edu](mailto:ad158@rice.edu)
