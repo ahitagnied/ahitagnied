@@ -1,7 +1,8 @@
 ### hi 👋
 
 - I'm [Ahitagni](https://ahitagni.rice.edu/)
-- I am interested in [computer vision](https://computationalimaging.rice.edu/) and startups
+- I am interested in [computer vision](https://computationalimaging.rice.edu/), llms, voice-models
+- I like making things [writing, software, startups]
   
 ### find me on
 
