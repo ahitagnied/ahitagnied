@@ -2,7 +2,6 @@
 
 - I'm [Ahitagni](https://ahitagni.rice.edu/)
 - I am interested in [computer vision](https://computationalimaging.rice.edu/) and startups
-- I am currently building klix - a automated outreach software for sales 
   
 ### find me on
 
