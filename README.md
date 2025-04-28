@@ -1,6 +1,6 @@
 ### hi 👋
 
-- I'm [Ahitagni](https://ahitagni.rice.edu/)
+- I'm [Ahitagni](https://ahis.me/)
 - I am interested in [computer vision](https://computationalimaging.rice.edu/), llms, voice-models
 - I like [ai, start-ups, writing]
   
