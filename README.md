@@ -6,7 +6,7 @@
   
 ### find me on
 
-- 🔗 Website: [ahitagni.rice.edu](https://ahitagni.rice.edu/)
+- 🔗 Website: [ahis.me](https://ahis.me/)
 - 🐤 Twitter: [@ahitagnied](https://x.com/ahitagnied)
 - 🌍 LinkedIn: [Ahitagni D](https://www.linkedin.com/in/ahitagnid/)
 - 📩 Email: [adas@rice.edu](mailto:ad158@rice.edu)
