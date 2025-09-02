@@ -10,5 +10,3 @@
 - 🐤 Twitter: [@ahitagnied](https://x.com/ahitagnied)
 - 🌍 LinkedIn: [Ahitagni D](https://www.linkedin.com/in/ahitagnid/)
 - 📩 Email: [adas@rice.edu](mailto:ad158@rice.edu)
-
-> "What is intelligence such that brains have it, but computers don't?" - Jeff Hawkins
