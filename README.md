@@ -1,12 +1,6 @@
-### hi 👋
+hi 👋 i'm [Ahitagni](https://ahis.me/)
 
-- I'm [Ahitagni](https://ahis.me/)
-- I am interested in [computer vision](https://computationalimaging.rice.edu/) & robotics
-- I like [ai, start-ups, writing]
-  
-### find me on
+- i like foundational ml & startups
+- interested in consumer ai rethinking how we interact with reality & imagination 
 
-- 🔗 Website: [ahis.me](https://ahis.me/)
-- 🐤 Twitter: [@ahitagnied](https://x.com/ahitagnied)
-- 🌍 LinkedIn: [Ahitagni D](https://www.linkedin.com/in/ahitagnid/)
-- 📩 Email: [adas@rice.edu](mailto:ad158@rice.edu)
+[www.ahis.me](https://ahis.me/)n / [adas@rice.edu](mailto:ad158@rice.edu)
